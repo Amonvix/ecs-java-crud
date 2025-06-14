@@ -1,0 +1,6 @@
+com/amon/javaCrud/controller/RootController.class
+com/amon/javaCrud/model/Task.class
+com/amon/javaCrud/service/TaskService.class
+com/amon/javaCrud/controller/TaskController.class
+com/amon/javaCrud/repository/TaskRepository.class
+com/amon/javaCrud/CrudJava2025Application.class

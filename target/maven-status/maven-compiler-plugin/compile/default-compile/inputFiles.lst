@@ -1,0 +1,6 @@
+/home/amonvix/projetos/Java_CRUD/JAVA-CRUD-2025-SPRINGBOOT/src/main/java/com/amon/javaCrud/CrudJava2025Application.java
+/home/amonvix/projetos/Java_CRUD/JAVA-CRUD-2025-SPRINGBOOT/src/main/java/com/amon/javaCrud/controller/RootController.java
+/home/amonvix/projetos/Java_CRUD/JAVA-CRUD-2025-SPRINGBOOT/src/main/java/com/amon/javaCrud/controller/TaskController.java
+/home/amonvix/projetos/Java_CRUD/JAVA-CRUD-2025-SPRINGBOOT/src/main/java/com/amon/javaCrud/model/Task.java
+/home/amonvix/projetos/Java_CRUD/JAVA-CRUD-2025-SPRINGBOOT/src/main/java/com/amon/javaCrud/repository/TaskRepository.java
+/home/amonvix/projetos/Java_CRUD/JAVA-CRUD-2025-SPRINGBOOT/src/main/java/com/amon/javaCrud/service/TaskService.java
